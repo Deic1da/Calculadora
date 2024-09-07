@@ -36,3 +36,5 @@ if (operacao == 4):
         entrada *= float(input("Digite o valor: "))
         pergunta = input("Deseja adicionar mais um valor?(S/N) \n").lower()
     print(f"A Multiplicação dos valores digitados é = {entrada}")
+
+    #Que Deus me perdoe!!!
