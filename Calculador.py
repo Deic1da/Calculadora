@@ -1,4 +1,3 @@
-i = 1
 entrada = 0
 pergunta = None
 print("O que deseja fazer?")
